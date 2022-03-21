@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ejercicio1.CreateTareas" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-21T15:53:58" hostname="DESKTOP-2T6TAJ9" time="29.862">
+<testsuite name="ejercicio1.CreateTareas" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-21T15:59:06" hostname="DESKTOP-2T6TAJ9" time="28.884">
   <properties/>
-  <testcase name="verifyCalculator()" classname="ejercicio1.CreateTareas" time="29.862"/>
+  <testcase name="verifyCalculator()" classname="ejercicio1.CreateTareas" time="28.884"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
